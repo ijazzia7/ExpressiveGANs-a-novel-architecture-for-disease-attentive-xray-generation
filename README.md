@@ -1,0 +1,2 @@
+# ExpressiveGANs-a-novel-architecture-for-disease-attentive-xray-generation
+In this research project, I developed an Expressive GAN to generate realistic synthetic chest X-rays, using class activation maps from a pretrained network to guide the generator and attention-based outputs from the discriminator for interpretability, creating clinically useful and explainable images to support medical AI.
